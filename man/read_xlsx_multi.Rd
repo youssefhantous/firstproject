@@ -6,9 +6,6 @@
 \usage{
 read_xlsx_multi(folder = getwd())
 }
-\arguments{
-\item{folder}{}
-}
 \value{
 an xlsx reader
 }

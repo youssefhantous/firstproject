@@ -7,8 +7,6 @@
 draw_a_name(the_name, the_sex)
 }
 \arguments{
-\item{the_name}{}
-
 \item{the_sex}{}
 }
 \description{

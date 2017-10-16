@@ -2,7 +2,8 @@
 #' Title read_xlsx_multi
 #'
 #' @param folder
-#'
+#' @importFrom readxl excel_sheets
+#' @import assertthat
 #' @return an xlsx reader
 #' @export
 #'

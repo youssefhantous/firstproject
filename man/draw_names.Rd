@@ -6,11 +6,6 @@
 \usage{
 draw_names(the_name, the_name2)
 }
-\arguments{
-\item{the_name}{}
-
-\item{the_name2}{}
-}
 \description{
 Title draw_names
 }
